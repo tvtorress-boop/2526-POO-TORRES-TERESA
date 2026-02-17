@@ -1,0 +1,5 @@
+1,Arroz,10,1.8
+2,Caramelos,10,1.0
+3,Azucar,1,1.15
+4,Mamtequilla,1,1.1
+6,Helado,2,2.0
